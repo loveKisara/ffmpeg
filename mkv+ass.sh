@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 视频文件目录（请使用绝对路径）
-video_dir="/path/to/your/videos"
+video_dir="/storage/emulated/0/123云盘/RAW"
 
 # 输出文件目录
 output_dir="$video_dir/output"
